@@ -1,0 +1,78 @@
+[
+    {
+        "exercises": [
+            {
+                "exercise": "bench press",
+                "warmupSets": "3 to 4",
+                "workingSets": 1,
+                "reps": "3 to 5",
+                "rest": "3-4 mins",
+                "videoURL": "//www.youtube.com/embed/vthMCtgVtFw"
+            },
+            {
+                "exercise": "larsen press",
+                "warmup sets": "0",
+                "working sets": 2,
+                "reps": "10",
+                "rest": "3-4 mins",
+                "videoURL": "//www.youtube.com/embed/Ilt0GuTwB_Y"
+            },
+            {
+                "exercise": "Seated dumbell overhead press",
+                "warmup sets": "2",
+                "working sets": 3,
+                "reps": "8 to 10",
+                "rest": "2-3 mins",
+                "videoURL": "//www.youtube.com/embed/qEwKCR5JCog"
+            },
+            {
+                "exercise": "A1) Pec dec",
+                "warmup sets": "",
+                "working sets": 3,
+                "reps": "15",
+                "rest": "0",
+                "videoURL": "//www.youtube.com/embed/Ilt0GuTwB_Y"
+            },
+            {
+                "exercise": "A2)Pushups",
+                "warmup sets": "superset",
+                "working sets": 3,
+                "reps": "15",
+                "rest": "2-3 mins",
+                "videoURL": ""
+            },
+            {
+                "exercise": "cross body cable y raises",
+                "warmup sets": "1",
+                "working sets": 3,
+                "reps": "12 to 15",
+                "rest": "1-2 mins",
+                "videoURL": "//www.youtube.com/embed/nvb_6q0ilp8"
+            },
+            {
+                "exercise": "a1)Tricep rope press down",
+                "warmup sets": "",
+                "working sets": 3,
+                "reps": "12 to 15",
+                "rest": "0",
+                "videoURL": "//www.youtube.com/embed/BO_tkuNGIZs"
+            },
+            {
+                "exercise": "a2)Overhead rope triceps extension",
+                "warmup sets": "superset",
+                "working sets": 3,
+                "reps": "12 to 15",
+                "rest": "2-3 mins",
+                "videoURL": "//www.youtube.com/embed/XTerYx0kwQ8"
+            },
+            {
+                "exercise": "cross body triceps extension",
+                "warmup sets": "3",
+                "working sets": null,
+                "reps": "15",
+                "rest": "2 mins",
+                "videoURL": "//www.youtube.com/embed/uID8NFK1p5Y"
+            }
+        ]
+    }
+]
